@@ -1,0 +1,13 @@
+How to use, guide
+
+(1)
+test_loadfile.py
+open this file, set correct size 64x32 in current case
+set name of the file to be read
+
+
+
+(2)
+main_pade.py
+
+do it
